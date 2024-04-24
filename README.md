@@ -1,6 +1,6 @@
 # PavOS - Sistema Operativo basado en el kernel de Linux
 
-##Integrantes:
+## Integrantes:
 -David Arias Rueda
 -Juan David Carvajal Lozano
 -Paula Andrea Gomez Aldana
