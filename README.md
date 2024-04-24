@@ -1,9 +1,9 @@
 # PavOS - Sistema Operativo basado en el kernel de Linux
 
 ## Integrantes:
--David Arias Rueda
--Juan David Carvajal Lozano
--Paula Andrea Gomez Aldana
+- David Arias Rueda
+- Juan David Carvajal Lozano
+- Paula Andrea Gomez Aldana
 
 ## Especificaciones mínimas
 - Procesador: 1 GHz o superior
